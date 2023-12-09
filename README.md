@@ -16,7 +16,7 @@
    
   🚀 Let's connect, collaborate, and code something awesome together. Whether you're a fellow coder or just curious about the digital world, welcome to my ever-evolving digital playground!
 
-<h3 align="left"> 🌐 Connect with me:</h3> -->
+<h3 align="left"> 🌐 Connect with me:</h3>
 <p align="center">
 
 <a href="mailto:chytahsin.2210@gmail.com" target="blank"><img align="left" src="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail&logoColor=white&labelColor=red" alt="tahsinaubonee" style="margin-left: 5px;" height="30" width="100" /></a>
