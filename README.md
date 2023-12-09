@@ -1,4 +1,5 @@
 
+<h1><img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&duration=5005&pause=1006&color=091C92&random=false&width=435&lines=Hi%2C+I+am+Tahsin+Tarannum+Chowdhury)](https://git.io/typing-svg" alt="aubonee" /></h1>
 <img align="center" src="https://github.com/aubonee/aubonee/blob/main/cover.png?raw=true" alt="aubonee" />
 
 
