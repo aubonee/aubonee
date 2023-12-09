@@ -4,7 +4,7 @@
 
 
  <br>
- <h3 align="left">About me</h3> -->
+ <h3 align="left">About me</h3> 
  
  👋 Hey there! I'm a passionate web developer on a mission to turn coffee into code and ideas into interactive experiences. Currently navigating the final year of my CSE studies at the International Islamic University Chittagong, I'm fueled by a love for learning.
 
