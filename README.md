@@ -28,7 +28,7 @@
 </p>
 <br>
 <h1 align="center"></h1>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aubonee&theme=tokyonight&hide_border=true)](https://git.io/streak-stats" alt="aubonee" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aubonee&theme=tokyonight&hide_border=true)](https://git.io/streak-stats" alt="aubonee" /></p>
 
 <h2 align="left"> 💼Languages and Tools:</h2>
 <p align="center">
