@@ -4,7 +4,7 @@
 
 
  <br>
- <h3 align="left">About me</h3> 
+ <h3 align="left"> 👩‍💻About me :</h3> 
  
  👋 Hey there! I'm a passionate web developer on a mission to turn coffee into code and ideas into interactive experiences. Currently navigating the final year of my CSE studies at the International Islamic University Chittagong, I'm fueled by a love for learning.
 
@@ -20,7 +20,7 @@
    
   🚀 Let's connect, collaborate, and code something awesome together. Whether you're a fellow coder or just curious about the digital world, welcome to my ever-evolving digital playground!
 
-<h3 align="left">Connect with me:</h3> -->
+<h3 align="left"> 🌐 Connect with me:</h3> -->
 <p align="center">
 
 <a href="mailto:chytahsin.2210@gmail.com" target="blank"><img align="left" src="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail&logoColor=white&labelColor=red" alt="tahsinaubonee" style="margin-left: 5px;" height="30" width="100" /></a>
@@ -30,14 +30,14 @@
 <a href="https://github.com/aubonee" target="blank"><img align="left" src="https://img.shields.io/badge/GitHub-green?style=flat-square&logo=github&logoColor=white&labelColor=gray" alt="tahsinaubonee"   style="margin-left: 5px;" height="30" width="100" /></a>
 </p>
 <br>
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left"> 💼Languages and Tools:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,tailwind,bootstrap,git,github,nodejs,react,firebase,express,mongodb" />
   </a>
 </p>
 
-<h2 align="left">Stats:</h2>
+<h2 align="left">📊 GitHub Stats:</h2>
 
 
 
