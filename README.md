@@ -19,6 +19,11 @@
 
 <h3 align="left"> 🌐 Connect with me:</h3>
 <p align="center">
+**Contact me:**
+- 📧 chytahsin.2210@gmail.com
+
+[![Gmail Button](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail&logoColor=white&labelColor=red)](mailto:chytahsin.2210@gmail.com)
+
 
 <a href="mailto:chytahsin.2210@gmail.com" target="_blank"><img align="left" src="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail&logoColor=white&labelColor=red" alt="tahsinaubonee" style="margin-left: 5px;" height="30" width="100" /></a>
 
