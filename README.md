@@ -27,7 +27,8 @@
 <a href="https://github.com/aubonee" target="_blank"><img align="left" src="https://img.shields.io/badge/GitHub-green?style=flat-square&logo=github&logoColor=white&labelColor=gray" alt="tahsinaubonee"   style="margin-left: 5px;" height="30" width="100" /></a>
 </p>
 <br>
-<h1 align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aubonee&theme=tokyonight&hide_border=true)](https://git.io/streak-stats" alt="aubonee" /></p></h1>
+<h1 align="center"></h1>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aubonee&theme=tokyonight&hide_border=true)](https://git.io/streak-stats" alt="aubonee" /></p>
 
 <h2 align="left"> 💼Languages and Tools:</h2>
 <p align="center">
