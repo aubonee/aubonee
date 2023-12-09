@@ -1,9 +1,6 @@
-
-<img align="center" src="https://github.com/aubonee/aubonee/blob/main/cover%202.png?raw=true](https://github.com/aubonee/aubonee/blob/main/cover.png?raw=true)](https://github.com/aubonee/aubonee/blob/main/cover.png?raw=true)" alt="aubonee" />
-
+<img align="center" src="https://github.com/aubonee/aubonee/blob/main/cover.png?raw=true" alt="aubonee" />
 
 
- <br>
 
 - 🌱 I’m currently learning **Nodejs, React**
 
@@ -30,6 +27,10 @@
 <p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aubonee&theme=apprentice" alt="aubonee" /></p>
  
 <p><img align="leftr]" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aubonee&theme=apprentice" alt="aubonee" /></p>
+<p><img align="leftr]" src="https://api.githubtrends.io/user/svg/aubonee/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark" alt="aubonee" /></p>
+
+
+
 
 
 
