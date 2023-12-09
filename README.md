@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nodejs, React**
 
-- 💬 Ask me about **javaScript, React**
+- 💬 Ask me about **html, css, javaScript, React**
 
 - 📫 How to reach me **chytahsin.2210@gmail.com**
 <!-- 
