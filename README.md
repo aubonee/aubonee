@@ -21,7 +21,7 @@
 
 <a href="mailto:chytahsin.2210@gmail.com" target="blank"><img align="left" src="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=gmail&logoColor=white&labelColor=red" alt="tahsinaubonee" style="margin-left: 5px;" height="30" width="100" /></a>
 
-<a href="www.linkedin.com/in/tahsinaubonee-07aa39217" target="blank"><img align="left" src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&labelColor=gray" alt="tahsinaubonee"  style="margin-left: 5px;" height="30" width="100" /></a>
+<a href="[www.linkedin.com/in/tahsinaubonee-07aa39217]" target="blank"><img align="left" src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&labelColor=gray" alt="tahsinaubonee"  style="margin-left: 5px;" height="30" width="100" /></a>
 
 <a href="https://github.com/aubonee" target="blank"><img align="left" src="https://img.shields.io/badge/GitHub-green?style=flat-square&logo=github&logoColor=white&labelColor=gray" alt="tahsinaubonee"   style="margin-left: 5px;" height="30" width="100" /></a>
 </p>
