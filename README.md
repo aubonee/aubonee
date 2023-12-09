@@ -1,5 +1,5 @@
 
-<img align="center" src="https://github.com/aubonee/aubonee/blob/main/cover%202.png?raw=true](https://github.com/aubonee/aubonee/blob/main/cover.png?raw=true)" alt="aubonee" />
+<img align="center" src="[https://github.com/aubonee/aubonee/blob/main/cover%202.png?raw=true](https://github.com/aubonee/aubonee/blob/main/cover.png?raw=true)](https://github.com/aubonee/aubonee/blob/main/cover.png?raw=true)" alt="aubonee" />
 
 
 
