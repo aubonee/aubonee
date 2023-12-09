@@ -6,11 +6,7 @@
  <br>
  <h3 align="left"> 👩‍💻About me :</h3> 
  
- 👋 Hey there! I'm a passionate web developer on a mission to turn coffee into code and ideas into interactive experiences. Currently navigating the final year of my CSE studies at the International Islamic University Chittagong, I'm fueled by a love for learning.
-
-💻 As a frontend developer, I'm diving deep into the realms of JavaScript and React, crafting user interfaces that blend creativity with functionality.On the backend, I use Express.js and MongoDB to build strong and scalable systems.
-
-📚 Still figuring out the ropes of JS and React, but loving every step of the learning journey. Excited to see where the coding adventures take me next!
+ 👋 Hey there! I'm a passionate web developer on a mission to turn coffee into code and ideas into interactive experiences. Currently navigating the final year of my CSE studies at the International Islamic University Chittagong, I'm fueled by a love for learning. As a frontend developer, I'm diving deep into the realms of JavaScript and React, crafting user interfaces that blend creativity with functionality.On the backend, I use Express.js and MongoDB to build strong and scalable systems. Still figuring out the ropes of JS and React, but loving every step of the learning journey. Excited to see where the coding adventures take me next!
 
 - 🌱 I’m currently learning **Nodejs, React**
 
